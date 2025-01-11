@@ -15,15 +15,15 @@ This project analyzes Swiggy sales and customer behavior using SQL. Data from Fo
 
 
 ## Report Pages
--- <a href= "https://github.com/shubhamdabi2024/Power-BI-Swiggy-Data-Analysis/blob/main/Swiggy%20Analysis%20Page%201.png">View Report Page 1</a>
+- <a href= "https://github.com/shubhamdabi2024/Power-BI-Swiggy-Data-Analysis/blob/main/Swiggy%20Analysis%20Page%201.png">View Report Page 1</a>
 
--- <a href= "https://github.com/shubhamdabi2024/Power-BI-Swiggy-Data-Analysis/blob/main/Swiggy%20Analysis%20Page%202.png">View Report Page 2</a>
+- <a href= "https://github.com/shubhamdabi2024/Power-BI-Swiggy-Data-Analysis/blob/main/Swiggy%20Analysis%20Page%202.png">View Report Page 2</a>
 
--- <a href= "https://github.com/shubhamdabi2024/Power-BI-Swiggy-Data-Analysis/blob/main/Swiggy%20Analysis%20Page%203.png">View Report Page 3
+- <a href= "https://github.com/shubhamdabi2024/Power-BI-Swiggy-Data-Analysis/blob/main/Swiggy%20Analysis%20Page%203.png">View Report Page 3
 
--- <a href= "https://github.com/shubhamdabi2024/Power-BI-Swiggy-Data-Analysis/blob/main/Swiggy%20Analysis%20Page%204.png">View Report Page 4
+- <a href= "https://github.com/shubhamdabi2024/Power-BI-Swiggy-Data-Analysis/blob/main/Swiggy%20Analysis%20Page%204.png">View Report Page 4
 
--- <a href= "https://github.com/shubhamdabi2024/Power-BI-Swiggy-Data-Analysis/blob/main/Swiggy%20Analysis%20Page%205.png">View Report Page 5
+- <a href= "https://github.com/shubhamdabi2024/Power-BI-Swiggy-Data-Analysis/blob/main/Swiggy%20Analysis%20Page%205.png">View Report Page 5
 
 
 ## Overview
